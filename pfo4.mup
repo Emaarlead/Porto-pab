@@ -1,0 +1,111 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "\nIngénieur / ingénieure logiciel",
+      "id": 1,
+      "attr": {
+        "position": [
+          -29,
+          -15,
+          1
+        ],
+        "style": {
+          "width": 137
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Bac +5",
+          "id": "4.86da.e8b1cc456-fa49.a90d32456",
+          "ideas": {
+            "1": {
+              "title": "5 ans pour obtenir un diplôme d'ingénieur (spécialisé en informatique, développement logiciel ou génie logiciel) ou un master Miage (méthodes informatiques appliquées à la gestion des entreprises) ou informatique.",
+              "id": "13.86da.e8b1cc456-fa49.a90d32456",
+              "attr": {
+                "position": [
+                  41,
+                  -69,
+                  2
+                ]
+              }
+            },
+            "2": {
+              "title": "L'ingénieur logiciel possède une solide culture scientifique qu'il doit sans cesse mettre à jour pour s'adapter aux évolutions des technologies liées à l'univers des logiciels. Il maîtrise les méthodes et les outils de développement (UML, Merise, Rational Rose...) et a une excellente connaissance des langages de programmation (Java, C++...), en fonction du domaine informatique dans lequel il intervient (informatique de gestion, informatique embarquée...). La maîtrise de l'anglais (notamment technique) et la connaissance des normes et des procédures de sécurité informatique sont également indispensables.",
+              "id": "14.86da.e8b1cc456-fa49.a90d32456",
+              "attr": {
+                "position": [
+                  60,
+                  67,
+                  3
+                ]
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              127,
+              -158,
+              20
+            ]
+          }
+        },
+        "4": {
+          "title": "Des perspectives d'évolution\nÀ terme, l'ingénieur logiciel peut évoluer vers des fonctions de chef de projet ou d'équipe (encadrant une équipe d'informaticiens) ou accéder à des postes qui requièrent plus de technicité et/ou plus de responsabilité : consultant, expert technique...",
+          "id": "12.86da.e8b1cc456-fa49.a90d32456",
+          "attr": {
+            "position": [
+              180,
+              1,
+              19
+            ]
+          }
+        },
+        "7": {
+          "title": "Travailler à la réalisation de logiciels implique une bonne organisation. Il faut assurer la fiabilité du produit, veiller à sa facilité d'utilisation et respecter les délais de livraison. Ces délais sont parfois très courts : il faut alors travailler dans l'urgence, pour finir dans les temps.",
+          "id": "10.86da.e8b1cc456-fa49.a90d32456",
+          "attr": {
+            "position": [
+              180,
+              113,
+              21
+            ]
+          }
+        },
+        "-1": {
+          "title": "2830 euros brut par mois",
+          "id": "7.86da.e8b1cc456-fa49.a90d32456",
+          "attr": {
+            "position": [
+              178,
+              -101,
+              10
+            ]
+          }
+        },
+        "-12": {
+          "title": "L'ingénieur logiciel peut être polyvalent, concevant et mettant en place des logiciels pour le compte d'entreprises et d'administrations, et évoluer dans des secteurs d'activité variés : industrie, banque et assurance, commerce, transport et logistique... À l'inverse, il peut choisir de se spécialiser dans un domaine précis de l'informatique. Par exemple, en informatique de gestion, en informatique embarquée (pour l'industrie)...",
+          "id": "11.86da.e8b1cc456-fa49.a90d32456",
+          "attr": {
+            "position": [
+              159,
+              109,
+              16
+            ]
+          }
+        },
+        "-7": {
+          "title": "En entreprise de services du numérique",
+          "id": "8.86da.e8b1cc456-fa49.a90d32456",
+          "attr": {}
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": "Nom du métier",
+  "links": []
+}
